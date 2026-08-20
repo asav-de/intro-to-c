@@ -1,0 +1,8 @@
+.vscode/
+
+# compiled binaries
+*.o
+*.out
+introduction-to-C-Part_2/dreieck
+introduction-to-C-Part_2/leetspeak
+introduction-to-C-Part_2/xshape
